@@ -1,6 +1,6 @@
-from gcr.io/kubeflow-images-public/tf_operator:v0.2.0
+#from gcr.io/kubeflow-images-public/tf_operator:v0.2.0
 
-#from gcr.io/kubeflow-images-public/centraldashboard:v0.2.1
+from gcr.io/kubeflow-images-public/centraldashboard:v0.2.1
 
 #from quay.io/datawire/ambassador:0.35.0
 #from quay.io/datawire/statsd:0.35.0
