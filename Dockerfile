@@ -1,4 +1,6 @@
-from gcr.io/kubeflow-images-public/tf_operator:v0.2.0
+#from gcr.io/kubeflow-images-public/tf_operator:v0.2.0
+
+from gcr.io/kubeflow-images-public/tf_operator:v0.3.0
 
 #from gcr.io/kubeflow-images-public/centraldashboard:v0.2.1
 
