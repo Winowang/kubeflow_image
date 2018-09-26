@@ -1,6 +1,6 @@
 #from gcr.io/kubeflow-images-public/tf_operator:v0.2.0
 
-from gcr.io/kubeflow-images-public/tf_operator:v0.3.0
+#from gcr.io/kubeflow-images-public/tf_operator:v0.3.0
 
 #from gcr.io/kubeflow-images-public/centraldashboard:v0.2.1
 
@@ -14,4 +14,4 @@ from gcr.io/kubeflow-images-public/tf_operator:v0.3.0
 #from gcr.io/kubeflow/jupyterhub-k8s:v20180531-3bb991b1
 
 # pytorch operator
-#from gcr.io/kubeflow-images-public/pytorch-operator:v0.3.0
+from gcr.io/kubeflow-images-public/pytorch-operator:v0.3.0
