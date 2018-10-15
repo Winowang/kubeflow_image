@@ -21,8 +21,8 @@
 
 #from gcr.io/kubeflow-images-public/modeldb-backend:v0.2.0
 #from gcr.io/kubeflow-images-public/katib/vizier-core:v0.1.2-alpha-34-gb46378c
-from gcr.io/kubeflow-images-public/katib/katib-frontend:v0.1.2-alpha-34-gb46378c
-#from gcr.io/kubeflow-images-public/katib/suggestion-grid:v0.1.2-alpha-34-gb46378c
+#from gcr.io/kubeflow-images-public/katib/katib-frontend:v0.1.2-alpha-34-gb46378c
+from gcr.io/kubeflow-images-public/katib/suggestion-grid:v0.1.2-alpha-34-gb46378c
 #from gcr.io/kubeflow-images-public/katib/suggestion-random:v0.1.2-alpha-34-gb46378c
 
 
