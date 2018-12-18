@@ -4,7 +4,7 @@
 
 #from gcr.io/kubeflow-images-public/centraldashboard:v0.2.1
 #from gcr.io/kubeflow-images-public/centraldashboard:v0.3.0
-
+from gcr.io/kubeflow-images-public/centraldashboard:v0.3.4
 
 #from quay.io/datawire/ambassador:0.40.0
 #from quay.io/datawire/statsd:0.40.0
@@ -19,7 +19,7 @@
 #from gcr.io/kubeflow-images-public/pytorch-operator:v0.3.0
 
 
-from gcr.io/kubeflow-images-public/modeldb-backend:v0.2.0
+#from gcr.io/kubeflow-images-public/modeldb-backend:v0.2.0
 #from gcr.io/kubeflow-images-public/katib/vizier-core:v0.1.2-alpha-34-gb46378c
 #from gcr.io/kubeflow-images-public/katib/katib-frontend:v0.1.2-alpha-34-gb46378c
 #from gcr.io/kubeflow-images-public/katib/suggestion-grid:v0.1.2-alpha-34-gb46378c
