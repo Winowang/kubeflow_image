@@ -1,4 +1,5 @@
-from gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0
+from gcr.io/kubeflow-images-public/centraldashboard:v0.5.0
+#from gcr.io/kubeflow-images-public/pytorch-operator:v0.5.0
 
 #from gcr.io/kubeflow-images-public/tf_operator:v0.2.0
 
