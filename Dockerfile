@@ -4,7 +4,8 @@
 #from gcr.io/kubeflow-images-public/tf_operator:v0.2.0
 #from gcr.io/kubeflow-images-public/tf_operator:v0.3.0
 #from gcr.io/kubeflow-images-public/tf_operator:v0.5.0
-from k8s.gcr.io/debian-base-amd64:v1.0.0
+#from k8s.gcr.io/debian-base-amd64:v1.0.0
+from k8s.gcr.io/debian-iptables-amd64:v11.0.2
 
 #centraldashboard
 #from gcr.io/kubeflow-images-public/centraldashboard:v0.2.1
